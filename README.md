@@ -1,6 +1,6 @@
 # IDL Resources for the Heliophysics Development Series 
 
-## IDL Course #1:  Advanced Plotting with IDL:  
+## IDL Course #1:  Advanced Plotting with IDL 
 Taught by Peter Young  
 
 [Link](https://pyoung.org/quick_guides/idl_plot_objects.html) pyoung.org containing further resources and tips
