@@ -21,5 +21,5 @@ Topics to be covered include:
 If you have any other classes you'd like, please let us know.  We are looking for an instructor to give an overview of the new IDL machine learning framework. 
 
 ## Additional Resources
-[Link](https://pyoung.org/quick_guides/) Peter Young's pyoung.org guides containing further resources and tips
-[Link](https://hesperia.gsfc.nasa.gov/rhessidatacenter/complementary_data/objects/objects.html) Dominic Zarro's map objects guide
+* [Link](https://pyoung.org/quick_guides/) Peter Young's pyoung.org guides containing further resources and tips
+* [Link](https://hesperia.gsfc.nasa.gov/rhessidatacenter/complementary_data/objects/objects.html) Dominic Zarro's map objects guide
