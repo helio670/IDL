@@ -3,13 +3,13 @@
 ## IDL Course #1:  Advanced Plotting with IDL 
 Taught by Peter Young  
 
-[Link](https://pyoung.org/quick_guides/idl_plot_objects.html) pyoung.org site describing IDL plot objects, including exercises with source code
+[Link](https://pyoung.org/quick_guides/idl_plot_objects.html) pyoung.org site describing IDL plot objects, including exercises with source code and the examples he showed in class.
 
 13 May 2019, Bldg 21 Rm 183 10-1230
 
 Plot objects were introduced to IDL several years ago but unfortunately many people still use the old direct graphics methods (e.g., you use the plot procedure rather than the plot function). There are many advantages to plot objects, and this demo covers the basic features.
  
-Topics to be covered include:
+Topics that were covered included:
  
 * Making good-quality figures with plot objects for both publications and presentations.
 * Plotting images with coordinate information.
