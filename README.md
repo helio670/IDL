@@ -3,7 +3,7 @@
 ## IDL Course #1:  Advanced Plotting with IDL 
 Taught by Peter Young  
 
-[Link](https://pyoung.org/quick_guides/idl_plot_objects.html) pyoung.org site describing IDL plot objects
+[Link](https://pyoung.org/quick_guides/idl_plot_objects.html) pyoung.org site describing IDL plot objects, including exercises with source code
 
 13 May 2019, Bldg 21 Rm 183 10-1230
 
