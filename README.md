@@ -1,11 +1,11 @@
 # IDL Resources for the Heliophysics Development Series 
 
 ##  Advanced Plotting with IDL:  
-Taught by Peter Young  [Link](https://pyoung.org/quick_guides/idl_plot_objects.html)
+Taught by Peter Young  
 
-13 May 2019
+[Link](https://pyoung.org/quick_guides/idl_plot_objects.html) pyoung.org containing further resources and tips
 
-Bldg 21 Rm 183 10-1230
+13 May 2019, Bldg 21 Rm 183 10-1230
 
 Plot objects were introduced to IDL several years ago but unfortunately many people still use the old direct graphics methods (e.g., you use the plot procedure rather than the plot function). There are many advantages to plot objects, and this demo covers the basic features.
  
